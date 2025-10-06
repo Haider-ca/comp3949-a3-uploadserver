@@ -1,0 +1,12 @@
+# IntelliJ / build
+.idea/
+out/
+*.iml
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Runtime artifacts
+images/*
+!images/.gitkeep
